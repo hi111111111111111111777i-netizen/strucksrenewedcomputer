@@ -23,8 +23,11 @@ Fixed a typo (“an public room”) and renamed a couple of joke debug labels.
 
 # How to Install
 
+
 Go to the latest release and download GorillaComputer.dll v.1
+
 Extract the .zip file into your Gorilla Tag folder, that holds Gorilla Tag.exe 
+
 And Then Launch the game with Utilla
 
 # PS: 
